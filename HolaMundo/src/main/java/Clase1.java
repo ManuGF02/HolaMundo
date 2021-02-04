@@ -9,6 +9,7 @@
  * @author Diurno
  */
 public class Clase1 {
+    int lol;
     public void HolaMundo()
     {
         System.out.println("Hola Mundo");
