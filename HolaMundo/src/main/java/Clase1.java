@@ -12,5 +12,6 @@ public class Clase1 {
     public void HolaMundo()
     {
         System.out.println("Hola Mundo");
+        static int  misHuevos = 2;
     }
 }
